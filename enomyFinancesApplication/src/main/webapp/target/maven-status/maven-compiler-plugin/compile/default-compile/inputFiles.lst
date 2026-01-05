@@ -1,8 +1,0 @@
-/home/zyncboi/enomyFinances-workspace/enomyFinancesApplication/src/main/java/com/enomyfinances/config/DatabaseConfig.java
-/home/zyncboi/enomyFinances-workspace/enomyFinancesApplication/src/main/java/com/enomyfinances/controller/HomeController.java
-/home/zyncboi/enomyFinances-workspace/enomyFinancesApplication/src/main/java/com/enomyfinances/controller/InvestController.java
-/home/zyncboi/enomyFinances-workspace/enomyFinancesApplication/src/main/java/com/enomyfinances/controller/LoginController.java
-/home/zyncboi/enomyFinances-workspace/enomyFinancesApplication/src/main/java/com/enomyfinances/controller/RegisterController.java
-/home/zyncboi/enomyFinances-workspace/enomyFinancesApplication/src/main/java/com/enomyfinances/dao/UserDao.java
-/home/zyncboi/enomyFinances-workspace/enomyFinancesApplication/src/main/java/com/enomyfinances/dao/UserDaoImpl.java
-/home/zyncboi/enomyFinances-workspace/enomyFinancesApplication/src/main/java/com/enomyfinances/model/User.java
